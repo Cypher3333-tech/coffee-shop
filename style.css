@@ -19,6 +19,7 @@
         }
         nav a {
          color: brown;
+         background-color: beige;
         }
         .img1 {
            position: absolute;
