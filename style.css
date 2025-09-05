@@ -17,6 +17,9 @@
             color: brown;
             
         }
+        nav a {
+         color: brown;
+        }
         .img1 {
            position: absolute;
            top: 8px;
